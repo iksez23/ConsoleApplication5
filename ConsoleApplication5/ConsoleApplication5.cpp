@@ -6,6 +6,8 @@
 
 int main() {
     std::cout << "Hello World!\n";
+    01
+    02
     01 02 rem 03 rem
 }
 
