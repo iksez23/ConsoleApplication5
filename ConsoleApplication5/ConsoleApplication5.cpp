@@ -7,8 +7,7 @@
 int main() {
     std::cout << "Hello World!\n";
     01
-    02
-    01 02 rem 03 rem
+    02 rem 03 rem
     02 loc
     03 loc
 }
